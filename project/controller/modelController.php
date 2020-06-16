@@ -5,7 +5,7 @@
 define('host', 'localhost');
 define('user', 'root');
 define('pass', '');
-define('database', 'newsportall');
+define('database', 'ecommerce-simple');
 define('port', '3308');
 
 Class ModelController {
