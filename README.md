@@ -3,7 +3,8 @@ OOP PHP, MVC, HTML, CSS, JavaScript, Bootstrap, MySQL, WampServer\
 Back-end: OOP PHP and MySQL for the database\
 Front-end: CSS, Bootstrap and JavaScript\
 Design pattern: MVC\
-Server: Apache (using WampServer)
+Server: Apache (using WampServer)\
+Cart realized using sessions
 #### Functionalities I've implemented:
 * Displaying a list of products (with desired information and images), ordered by name descending, on home page
 * Listing all categories in the sidebar, and being able to display all products that belong to chosen category
